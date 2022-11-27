@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Ofline.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/Lobbi.unity
+    guid: f5f5d8ae51aec9142aaf98e72b1af222
+  - enabled: 1
     path: Assets/Scenes/Gamer.unity
     guid: d536c718454b2214ea1cd70df2303d5a
   m_configObjects: {}
